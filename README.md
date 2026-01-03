@@ -37,12 +37,4 @@
 
 <!-- ===== CONTRIBUTION SUMMARY (TEXT ONLY) ===== -->
 
-<h2 align="center">📊 Contribution Summary</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">🔥 <b>Current Streak</b><br/>Auto</td>
-    <td align="center">🏆 <b>Longest Streak</b><br/>Auto</td>
-    <td align="center">📦 <b>Total Contributions</b><br/>Auto</td>
-  </tr>
-</table>
