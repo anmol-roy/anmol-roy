@@ -9,6 +9,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anmol-roy&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-roy&layout=compact&theme=radical" width="420"/>
+  
 </p>
 
 <br/>
@@ -22,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-roy&layout=compact&theme=radical" width="420"/>
+  
 </p>
 
 <br/>
