@@ -15,9 +15,9 @@
 
 <!-- ===== ROW 2: STREAK + LANGUAGES ===== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-roy&theme=radical" width="420"/>
-</p>
+</p> -->
 
 <br/>
 
