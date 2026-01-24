@@ -7,25 +7,14 @@
 
 <!-- ===== ROW 1: MAIN STATS ===== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol-roy&show_icons=true&theme=radical" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-roy&layout=compact&theme=radical" width="420"/>
+<p align="center" displey="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol-roy&show_icons=true&theme=radical" height="300" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-roy&layout=compact&theme=radical" height="300" width="420"/>
   
 </p>
 
 <br/>
 
-<!-- ===== ROW 2: STREAK + LANGUAGES ===== -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-roy&theme=radical" width="420"/>
-</p> -->
-
-<br/>
-
-<p align="center">
-  
-</p>
 
 <br/>
 
