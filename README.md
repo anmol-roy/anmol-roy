@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Anmol+Roy;Full-Stack+%2B+GenAI+Engineer;Next.js+%7C+Node.js+%7C+PostgreSQL+%7C+LLMs" alt="Typing SVG" />
 
@@ -13,8 +13,6 @@
 </div>
 
 <br/>
-
-<table width="100%"><tr><td>
 
 ---
 
@@ -105,8 +103,6 @@ const anmol = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&width=100%" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%" />
 
 </div>
-
-</td></tr></table>
